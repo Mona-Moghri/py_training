@@ -1,3 +1,7 @@
+#after 2 days i made it :)
+#the most important problem for me in this assingment is indentation which i still strugle about it
+
+
 import random
 from operator import index
 
